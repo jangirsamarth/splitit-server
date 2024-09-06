@@ -5,7 +5,7 @@
     <img src="https://github.com/jangirsamarth/split-it/blob/master/client/public/static/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h2 align="center">SplitApp</h2>
+  <h2 align="center">SplitIt</h2>
 
   <p align="center">
     Build with the MERN stack (MongoDB, Express, React and NodeJS).
